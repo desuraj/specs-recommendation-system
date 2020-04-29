@@ -1,0 +1,4 @@
+# specs-recommendation-system
+Specs recommendation system accepts frontal face video as the input and returns the best-fit eyeglasses as the output. As conventional recommendation techniques such as collaborative filtering become inapplicable in the problem, we propose a new recommendation method which exploits the implicit matching rules between human faces and eyeglasses. We first define fine-grained attributes for human faces and frames of glasses respectively. Then, we develop a recommendation which effectively captures the correlation among these fine-grained attributes. Ranking of the frames (glasses) is done by their similarity to the query facial attributes. Finally, we produce a synthesized video for the input face to demonstrate the visual effect when wearing the recommended glasses( Specs).
+
+Link:- https://drive.google.com/file/d/1hW7d8WbxglTqLOSGK_eLgN9hGXDxE74d/view?usp=drivesdk
